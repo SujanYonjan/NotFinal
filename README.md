@@ -1,0 +1,1 @@
+#.Net Core Web Api With JWT Authentication,Store Procedure and ADO.NET for every HTTP GET method,CRUD for Student and Teacher.
